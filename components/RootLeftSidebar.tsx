@@ -37,6 +37,7 @@ const RootLeftSidebar = () => {
                 <p>{label}</p>
               </Link>
             )
+            
           })
         ]}
       </nav>
